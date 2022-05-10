@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606048d2-6c67-41fd-b159-2190c0e36f71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex23.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex28.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
